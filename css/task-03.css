@@ -1,0 +1,16 @@
+.gallery{
+    display: flex;
+list-style: none;
+gap: 30px;
+align-items: center;
+    justify-content: center;
+}
+.gallery-img{
+    width: 300px;
+    display: block;
+
+}
+.gallery-item{
+    
+        /* border: 3px solid green; */
+}
